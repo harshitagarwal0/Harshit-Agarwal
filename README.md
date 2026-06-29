@@ -32,4 +32,4 @@ My engineering focus bridges the gap between edge AI hardware, real-time control
 *Engineered a multi-sensor data acquisition architecture over a CAN bus utilizing Arduino and ESP32 to capture live dynamic G-forces and steering effort for real-time wireless telemetry.*
 
 ---
-📫 **Let's Connect:** [Link to your LinkedIn Profile]
+📫 **Let's Connect:** [(https://www.linkedin.com/in/harshit-agarwal-0242731aa/?skipRedirect=true)]
